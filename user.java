@@ -1,3 +1,3 @@
 pulic class user{
-        private string name;
+	private string repo1;
 }
